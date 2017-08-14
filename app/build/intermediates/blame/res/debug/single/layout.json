@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/build/intermediates/res/merged/debug/layout/activity_game.xml",
+        "source": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/res/layout/activity_game.xml"
+    },
+    {
+        "merged": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/build/intermediates/res/merged/debug/layout/activity_game_over_green.xml",
+        "source": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/res/layout/activity_game_over_green.xml"
+    },
+    {
+        "merged": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/build/intermediates/res/merged/debug/layout/activity_player_select.xml",
+        "source": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/res/layout/activity_player_select.xml"
+    },
+    {
+        "merged": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/build/intermediates/res/merged/debug/layout/activity_game_over_blue.xml",
+        "source": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/res/layout/activity_game_over_blue.xml"
+    },
+    {
+        "merged": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/build/intermediates/res/merged/debug/layout/activity_game_over_yellow.xml",
+        "source": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/res/layout/activity_game_over_yellow.xml"
+    },
+    {
+        "merged": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/build/intermediates/res/merged/debug/layout/activity_game_over_red.xml",
+        "source": "/home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/res/layout/activity_game_over_red.xml"
+    }
+]

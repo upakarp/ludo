@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.floyd.ludogame"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.floyd.ludogame.SplashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.floyd.ludogame.Game" />
+        <activity android:name="com.example.floyd.ludogame.PlayerSelect" />
+        <activity
+            android:name="com.example.floyd.ludogame.GameOver"
+            android:label="@string/title_activity_game_over" />
+        <activity
+            android:name="com.example.floyd.ludogame.GameOverRed"
+            android:label="@string/title_activity_game_over_red" />
+        <activity
+            android:name="com.example.floyd.ludogame.GameOverGreen"
+            android:label="@string/title_activity_game_over_green" />
+        <activity
+            android:name="com.example.floyd.ludogame.GameOverBlue"
+            android:label="@string/title_activity_game_over_blue" />
+        <activity
+            android:name="com.example.floyd.ludogame.GameOverYellow"
+            android:label="@string/title_activity_game_over_yellow" />
+    </application>
+
+</manifest>

@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:5:5-35:19
+	android:label
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:7:9-38
+	android:theme
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.floyd.ludogame.SplashScreen
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.example.floyd.ludogame.Game
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:18:9-42
+	android:name
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:18:19-39
+activity#com.example.floyd.ludogame.PlayerSelect
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:19:19-47
+activity#com.example.floyd.ludogame.GameOver
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:20:9-22:64
+	android:label
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:22:13-61
+	android:name
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:21:13-37
+activity#com.example.floyd.ludogame.GameOverRed
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:23:9-25:68
+	android:label
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:24:13-40
+activity#com.example.floyd.ludogame.GameOverGreen
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:26:9-28:70
+	android:label
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:28:13-67
+	android:name
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:27:13-42
+activity#com.example.floyd.ludogame.GameOverBlue
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:29:9-31:69
+	android:label
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:31:13-66
+	android:name
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:30:13-41
+activity#com.example.floyd.ludogame.GameOverYellow
+ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:32:9-34:80
+	android:label
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:34:13-68
+	android:name
+		ADDED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml:33:13-43
+uses-sdk
+INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/floyd/Android/AndroidStudioProjects/LudoGame/app/src/main/AndroidManifest.xml
